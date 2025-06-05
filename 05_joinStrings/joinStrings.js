@@ -8,7 +8,12 @@
 */
 
 // Add your code right below, good luck!
+let firstName = 'Carlos';
+let lastName = 'Sevenson';
+let thisYear = 1965;
+let birthYear = 1947;
 
+const greeting = 'Hello, my name is' + firstName + ' ' + lastName + '' '' + 'and i am' (thisYear-birthYear) + '' '' + 'years old';
 
 
 
